@@ -806,6 +806,10 @@ ul.sign li a i {
 
 /** end service section **/
 
+  .custom-img {
+     width: 200px; /* Ancho específico */
+     height: 250px; /* Alto específico */
+  }
 
 /** portfolio section **/
 
